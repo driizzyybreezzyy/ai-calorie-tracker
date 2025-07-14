@@ -10,16 +10,16 @@ export default function Footer() {
           </p>
           <div className="flex items-center space-x-3">
             <Link
-              href="https://github.com/tahaygun"
+              href="https://github.com/driizzyybreezzyy/ai-calorie-tracker"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-400 hover:text-blue-300 transition-colors"
             >
-              Made by @tahaygun
+              Made by @Aryan
             </Link>
             <span className="text-gray-600">•</span>
             <Link
-              href="https://github.com/tahaygun/ai-calorie-tracker"
+              href="https://github.com/driizzyybreezzyy/ai-calorie-tracker"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-400 hover:text-blue-300 transition-colors"

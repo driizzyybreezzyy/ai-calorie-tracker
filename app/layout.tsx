@@ -36,8 +36,8 @@ export const metadata: Metadata = {
     'no account calorie tracker',
     'AI food analysis',
   ],
-  authors: [{ name: 'tahaygun', url: 'https://github.com/tahaygun' }],
-  creator: 'tahaygun',
+  authors: [{ name: 'Aryan', url: 'https://github.com/driizzyybreezzyy' }],
+  creator: 'Aryan',
   openGraph: {
     type: 'website',
     title: 'Free AI Calorie Tracker - No Account Needed',

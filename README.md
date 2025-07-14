@@ -2,8 +2,6 @@
 
 A free, open-source calorie tracking application powered by AI. Track your daily nutrition with advanced food analysis - no account needed!
 
-![AI Calorie Tracker](public/icons/icon-512x512.png)
-
 ## 🌟 Features
 
 - **AI-Powered Text Analysis**: Get instant nutritional information for any food or meal using OpenAI's advanced language models
@@ -35,7 +33,7 @@ A free, open-source calorie tracking application powered by AI. Track your daily
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/tahaygun/ai-calorie-tracker.git
+git clone https://github.com/driizzyybreezzyy/ai-calorie-tracker.git
 cd ai-calorie-tracker
 ```
 
@@ -149,52 +147,3 @@ For technical users or troubleshooting:
 
 Enable Debug Mode in the Settings page.
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/improvement`)
-3. Make your changes
-4. Commit your changes (`git commit -am 'Add new feature'`)
-5. Push to the branch (`git push origin feature/improvement`)
-6. Create a Pull Request
-
-## 📝 License
-
-This project is available under a dual-license model:
-
-1. **GNU GPL v3 License** - For non-commercial use:
-
-   - Free to use, modify, and distribute
-   - Any modifications must be open-sourced
-   - Perfect for personal use, educational purposes, and open-source projects
-
-2. **Commercial License** - For business use:
-   - Allows commercial use and integration
-   - Keep modifications private
-   - Priority support and updates
-   - Contact [@tahaygun](https://github.com/tahaygun) for commercial licensing
-
-For more details, see the [LICENSE](LICENSE) file.
-
-## 🙏 Credits
-
-- Created by [@tahaygun](https://github.com/tahaygun)
-- Powered by [OpenAI](https://openai.com/)
-- Built with [Next.js](https://nextjs.org/)
-
-## 🔗 Links
-
-- [Live Demo](https://ai-calorietracker.vercel.app)
-- [GitHub Repository](https://github.com/tahaygun/ai-calorie-tracker)
-- [Report Bug](https://github.com/tahaygun/ai-calorie-tracker/issues)
-- [Request Feature](https://github.com/tahaygun/ai-calorie-tracker/issues)
-
-## 📸 Screenshots
-
-[Coming Soon]
-
----
-
-Made with ❤️ by [@tahaygun](https://github.com/tahaygun)

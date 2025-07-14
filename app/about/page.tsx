@@ -152,7 +152,7 @@ export default function AboutPage() {
         <p>
           This project is open source and available on{' '}
           <a
-            href="https://github.com/tahaygun/ai-calorie-tracker"
+            href="https://github.com/driizzyybreezzyy/ai-calorie-tracker"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-400 hover:text-blue-300 transition-colors"
